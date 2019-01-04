@@ -22,6 +22,15 @@ func main() {
   var age = 32
 
   fmt.Println(name, age)
+  
+  // Identify type of variable
+  fmt.Printf("%T\n", age)
 
+  //Shorthand
+  anotherName := "Brown"
+
+  fmt.Println(anotherName)
+
+  
 
 }

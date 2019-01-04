@@ -1,0 +1,12 @@
+Go notes
+
+Made by google.
+Is Google using Go internally?
+Yes. Go is used widely in production inside Google. One easy example is the server behind golang.org. It's just the godoc document server running in a production configuration on Google App Engine.
+
+
+Go lang playground - https://play.golang.org/
+
+Go documentation - https://godoc.org/
+
+https://golang.org 
